@@ -34,9 +34,9 @@ In the vastness of space, astronauts live in microgravity environments for exten
 
 ## Prototype Images
 
-![Prototype 1](file-0wGyYc5JyF2ioG4evY8q5k2E)
-![Prototype 1](file-0wGyYc5JyF2ioG4evY8q5k2E)
-![Prototype 1](file-0wGyYc5JyF2ioG4evY8q5k2E)
+![Prototype 1](https://github.com/jayeshpandey01/nasa-space-app-noida/blob/main/Screenshot%202024-10-06%20084610.png)
+![Prototype 1](https://github.com/jayeshpandey01/nasa-space-app-noida/blob/main/Screenshot%202024-10-06%20084514.png)
+![Prototype 1](https://github.com/jayeshpandey01/nasa-space-app-noida/blob/main/Screenshot%202024-10-06%20084501.png)
 
 
 ## YouTube Demo
